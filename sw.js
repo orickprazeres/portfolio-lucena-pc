@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tv-lucena-cache-v2';
+const CACHE_NAME = 'tv-lucena-cache-v3';
 const urlsToCache = [
   './',
   './index.html',
